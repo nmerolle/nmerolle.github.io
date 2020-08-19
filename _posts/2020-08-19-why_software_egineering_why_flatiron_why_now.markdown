@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Why software egineering? Why Flatiron? Why now?"
-date:       2020-08-19 13:42:12 +0000
+title:      "Why software engineering? Why Flatiron? Why now?"
+date:       2020-08-19 09:42:13 -0400
 permalink:  why_software_egineering_why_flatiron_why_now
 ---
 
