@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Authentication in Sinatra Using Bcrypt"
-date:       2021-04-28 16:59:22 +0000
+date:       2021-04-28 12:59:23 -0400
 permalink:  authentication_in_sinatra_using_bcrypt
 ---
 
